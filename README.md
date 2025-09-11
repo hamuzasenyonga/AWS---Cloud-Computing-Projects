@@ -1,7 +1,6 @@
 # AWS Account Setup & Billing Alert
 
-## Learning Objectives
-By completing this project, you will:
+## Objectives
 - Set up an AWS free tier account
 - Understand AWS billing and cost management
 - Configure billing alerts and notifications
