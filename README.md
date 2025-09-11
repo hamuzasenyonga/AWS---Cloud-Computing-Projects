@@ -1,6 +1,6 @@
 # AWS Account Setup & Billing Alert
 
-## 🎯 Learning Objectives
+## Learning Objectives
 By completing this project, you will:
 - Set up an AWS free tier account
 - Understand AWS billing and cost management
@@ -8,10 +8,10 @@ By completing this project, you will:
 - Learn basic CloudWatch alarm setup
 - Familiarize yourself with the AWS Management Console
 
-## 📋 Project Overview
+## Project Overview
 This foundational project guides you through creating an AWS account and setting up essential billing monitoring. You'll learn how to configure cost alerts to avoid unexpected charges while exploring AWS services.
 
-## 🏗️ Architecture
+## Architecture
 ```
 ┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
 │   AWS Account   │───▶│  CloudWatch      │───▶│  SNS Topic      │
