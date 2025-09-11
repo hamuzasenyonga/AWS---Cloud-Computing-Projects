@@ -5,6 +5,7 @@ Set Up AWS Account - AWS Management Console Instructions
 3. Enter your contact information and payment details as prompted. AWS requires a credit/debit card for verification, but you can use the Free Tier.
 4. Verify your email and phone number as instructed.
 5. Once your account is created, sign in to the AWS Management Console at https://console.aws.amazon.com/.
+<img width="2238" height="1208" alt="image" src="https://github.com/user-attachments/assets/f98acf6b-3db6-4bac-bff2-fa4701f4df04" />
 
 
 Note: Account creation cannot be automated with CloudFormation. 
